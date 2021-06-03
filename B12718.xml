@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for coynes.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12718</idno><idno type="EEBO-CITATION">99892637_187142</idno>
+  <idno type="VID">187142</idno>
+  <idno type="EEBO-PROQUEST">2264198510</idno>
+  
+            <idno type="STC">STC 8364</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[70]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[46]</idno>
+            <idno type="STC">ESTC S123805</idno>
+            <idno type="PROQUEST">ocm99892637</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892637e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187142)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[70]; C7:1[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for coynes.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1604.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated on page [2]: VVestminster, the sixteenth day of Nouember, in the second yeere of our reigne ... .</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coinage --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Gold coins --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:187142:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head type="sub">❧ A Proclamation for Coynes.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>Lthough it be most certaine, that nothing is more appropriate to</hi> the Soueraigne dignity of Princes, then the ordering of their Moneys, and setting them at such Prices and Valuations, as they shall thinke conuenient vpon necessary causes; Yet haue We alwayes bene of opi<g ref="char:EOLhyphen"/>nion, that iust Princes should not vse the libertie of their Power in Abasing or Enhaunsing the Prices of Moneys, without all respect to the Common benefite of their Subiects. In which consideration it is euident to all men, that since our Entrie into this Realme, Wee haue bene so farre from changing the ancient and honourable Standard of the Starling Money of this our Realme of England, as We haue on the contrary restored to our Realme of Ireland Mo<g ref="char:EOLhyphen"/>neys of pure Siluer, in lieu of the base Coyne, with which the necessitie of the time, by accident of the Warres, constrained our Sister the late Queene of happy memorie to pay the Armies.</p>
+            <p>Neuerthelesse, it falling out at Our first comming out of Scotland, (where wee had Coynes of Gold and Siluer not then currant in this Realme) to be impossible for Our Nobilitie and other Seruants and Subiects attending Vs in Our iourney hither, to bee prouided of currant Moneys of this Realme for their expenses so soone as Our speed required; We did then giue Valuation to the Coyne of Golde of Scotland, called the Sixe pound piece, to be currant here for ten Shillings of Siluer, &amp; to be equal to the English Angel or Soueraigne of Gold: The authorizing whereof com<g ref="char:EOLhyphen"/>ming lately into Consideration, among other Points recommended by Vs to bee treated for the Weale of both Kingdomes, by some of Our Counsell of each of them, It hath appeared that the inconuenience is fit to be remoued, which groweth by our authorizing it to bee equall to the Golde Coynes of England: Not that it is not worth in true Value tenne Shillings of Our Siluer Mo<g ref="char:EOLhyphen"/>neys of England, but because that the English Coynes of Golde are not in regard of the Siluer Coynes, of the true proportion betweene Gold and Siluer accustomed in all Nations.</p>
+            <pb facs="tcp:187142:2"/>
+            <p> Whereupon our Councell hauing occasion to enter into further consideration of the Monyes of this Realme, with the assistance of the Officers of the Mynt, it appeareth very visibly, that this er<g ref="char:EOLhyphen"/>rour in the proportion of the Gold monyes of England to the Siluer, hath bene a great cause of the transportation of Gold out of this Realme into forraine Countries in such quantity, as of late yeres hath bene vsed, because the said Golde monyes are more worth in their true value, then here they were allowed. To which inconuenience long endured, being now resolued to giue remedie, Wee haue caused new coynes both of Gold and siluer to be made of seueral stampes, weights and values, but of one vniforme Standard and allay, to be currant within this Our Kingdome of <hi>Great Bri<g ref="char:EOLhyphen"/>taine:</hi> that is to say, One piece of Gold of the value of Twenty shillings sterling, to be called <hi>The Vnite,</hi> stamped on the one side with Our picture formerly vsed, with this Our stile, <hi>IACOBVS D'. G'. Mag'. Brit'. Fran'. &amp; Hib'. Rex.</hi> And on the other side, Our Armes Crowned, and with this word, <hi>Faci<g ref="char:EOLhyphen"/>am eos in gentem vnam.</hi> One other Gold money of Ten shillings, to be called, <hi>The double Crowne,</hi> And one other Golde money of Fiue shillings, to be called, <hi>The Britaine Crowne.</hi> On the one side with Our Picture accustomed, and Our stile as aforesaid, and on the other side, Our Armes, and this word, <hi>Henricus Rosas, Regna Iacobus.</hi> One other piece of Foure shillings, to be called, <hi>The Thistle Crowne,</hi> hauing on the one side a Rose crowned, and Our title, <hi>Ia'. D'. G'. Mag'. Br'. F. &amp; H. Rex:</hi> and on the other side, a Thistle flowre crowned, with this word, <hi>Tueatur vnita Deus.</hi> Also pieces of Two shillings sixe pence, to be called, <hi>Halfe Crownes,</hi> with Our Picture accustomed, and this word, <hi>I'.D'.G'. Rosa sine spina:</hi> and on the other side, Our Armes, and this word, <hi>Tucatur vnita Deus.</hi> And for Siluer monyes, pieces of Fiue shillings, and Two shillings sixe pence, hauing on the oue side Our Picture on Horse-backe, and Our stile aforesaid: And pieces of Twelue pence and Sixe pence hauing Our Picture formerly vsed, and our Stile as aforesaid. And on the other side Our Armes, and this word, <hi>Quae Deus coniunxit, nemo separet.</hi> Also pieces of Two pence, hauing on the one side a Rose crowned, and about it, <hi>I'.D'.G'. Rosa sine spina.</hi> And on the other side a Thistle flowre crow<g ref="char:EOLhyphen"/>ned, and about it, <hi>Tueatur vnita Deus.</hi> And one Pennie, hauing on the one side a Rose, and about it, <hi>I'.D'.G'. Rosa sine spina.</hi> And on the other side a Thistle Flowre, and about it, <hi>Tueatur vnita Deus.</hi> And the Halfe-penny hauing on the one side a Rose, and on the other side, a Thistle Flowre. All which seuerall Coynes both of Gold and Siluer, We doe hereby publish, declare, and anthorize to be amongst others heretofore vsed Our Monyes currant for this Our Kingdome of <hi>Great Britaine,</hi> to be vsed and receiued by all the Subiects thereof, in all Receits and Payments, and in all maner of Traffiquing, Bargaining, and dealing betweene man and man, at the seuerall Rates and Values conteined in the Table hereunder written, expressing their true Values and Weights, according to the accompt of the Mynt men of both Nations.</p>
+            <closer>
+               <dateline>Giuen at Our Pallace of Westminster, <date>the sixteenth day of Nouember, in the second yeere of our Reigne of GREAT BRITAINE, France and Ireland.</date>
+               </dateline>
+               <lb/> God saue the King.</closer>
+         </div>
+         <div type="tables_of_coinage_equivalancies">
+            <pb facs="tcp:187142:3"/>
+            <p>IT is to be remembred that the pound weight English, being xij. Ounces Troy, doeth ouer-poix the pound weight of Scotland iiij.d. weight, and ix. graines English: Where<g ref="char:EOLhyphen"/>upon this Table is made, to distinguish euery seuerall piece of Gold and Siluer Coine, according to the true weight of both Nations.</p>
+            <p>
+               <table>
+                  <head>English Weights.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">Peny weights 20.</cell>
+                     <cell role="label">Graines 24.</cell>
+                     <cell role="label">Mites 20.</cell>
+                     <cell role="label">Droits 24.</cell>
+                     <cell role="label">Periots 20.</cell>
+                     <cell role="label">Blanks 24.</cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell rows="5">Pieces of Gold of</cell>
+                     <cell>xx.s.</cell>
+                     <cell>06</cell>
+                     <cell>10</cell>
+                     <cell>16</cell>
+                     <cell>18</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell rows="5">Of these 37. li. 4. s. make a pound weight Troy.</cell>
+                  </row>
+                  <row>
+                     <cell>x.s.</cell>
+                     <cell>03</cell>
+                     <cell>05</cell>
+                     <cell>08</cell>
+                     <cell>09</cell>
+                     <cell>05</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>v.s.</cell>
+                     <cell>01</cell>
+                     <cell>14</cell>
+                     <cell>14</cell>
+                     <cell>04</cell>
+                     <cell>12</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>iiij.s.</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                     <cell>19</cell>
+                     <cell>08</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>ij.s.vj.d.</cell>
+                     <cell>00</cell>
+                     <cell>19</cell>
+                     <cell>07</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell rows="7">Pieces of Siluer of</cell>
+                     <cell>v.s.</cell>
+                     <cell>19</cell>
+                     <cell>08</cell>
+                     <cell>10</cell>
+                     <cell>08</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell rows="7">Of these 3. li. 2. s. make a pound weight Troy.</cell>
+                  </row>
+                  <row>
+                     <cell>ij.s.vj.d.</cell>
+                     <cell>09</cell>
+                     <cell>16</cell>
+                     <cell>05</cell>
+                     <cell>04</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xij.d.</cell>
+                     <cell>03</cell>
+                     <cell>20</cell>
+                     <cell>18</cell>
+                     <cell>01</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>vj.d.</cell>
+                     <cell>01</cell>
+                     <cell>22</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>15</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>ij.d.</cell>
+                     <cell>00</cell>
+                     <cell>15</cell>
+                     <cell>09</cell>
+                     <cell>16</cell>
+                     <cell>05</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>j.d.</cell>
+                     <cell>00</cell>
+                     <cell>07</cell>
+                     <cell>14</cell>
+                     <cell>20</cell>
+                     <cell>02</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>ob.</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>17</cell>
+                     <cell>10</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>Scottish Weights.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>Deniers</hi> 24.</cell>
+                     <cell role="label">
+                        <hi>Graines</hi> 24.</cell>
+                     <cell role="label">
+                        <hi>Primes</hi> 24.</cell>
+                     <cell role="label">
+                        <hi>Seconds</hi> 24.</cell>
+                     <cell role="label">
+                        <hi>Thirds</hi> 24.</cell>
+                     <cell role="label">
+                        <hi>Fourths</hi> 24.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell rows="5">Pieces of Gold of</cell>
+                     <cell>xx.s.</cell>
+                     <cell>07</cell>
+                     <cell>21</cell>
+                     <cell>07</cell>
+                     <cell>01</cell>
+                     <cell>09</cell>
+                     <cell>19</cell>
+                     <cell> </cell>
+                     <cell rows="5">Of these 36. li. 10. s. 3. d. q. make 12. oz. Scot<g ref="char:EOLhyphen"/>tish. Or 48. li. 3. s. 8. d.</cell>
+                  </row>
+                  <row>
+                     <cell>x.s.</cell>
+                     <cell>03</cell>
+                     <cell>22</cell>
+                     <cell>15</cell>
+                     <cell>12</cell>
+                     <cell>16</cell>
+                     <cell>21</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell>v.s.</cell>
+                     <cell>01</cell>
+                     <cell>23</cell>
+                     <cell>07</cell>
+                     <cell>18</cell>
+                     <cell>08</cell>
+                     <cell>10</cell>
+                     <cell>¾</cell>
+                  </row>
+                  <row>
+                     <cell>iiij.s.</cell>
+                     <cell>01</cell>
+                     <cell>13</cell>
+                     <cell>20</cell>
+                     <cell>14</cell>
+                     <cell>16</cell>
+                     <cell>08</cell>
+                     <cell>¾</cell>
+                  </row>
+                  <row>
+                     <cell>ii.s.vj.d.</cell>
+                     <cell>00</cell>
+                     <cell>23</cell>
+                     <cell>15</cell>
+                     <cell>21</cell>
+                     <cell>04</cell>
+                     <cell>05</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="7">Pieces of Siluer of</cell>
+                     <cell>v.s.</cell>
+                     <cell>23</cell>
+                     <cell>15</cell>
+                     <cell>21</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>13</cell>
+                     <cell> </cell>
+                     <cell rows="7">Of these 3. li. 10. d. q. or 4. li. 1. s. 1. d. ob. di. q. di. di. q.</cell>
+                  </row>
+                  <row>
+                     <cell>ij.s.vj.d.</cell>
+                     <cell>11</cell>
+                     <cell>19</cell>
+                     <cell>22</cell>
+                     <cell>14</cell>
+                     <cell>12</cell>
+                     <cell>06</cell>
+                     <cell>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>xij.d.</cell>
+                     <cell>04</cell>
+                     <cell>17</cell>
+                     <cell>13</cell>
+                     <cell>20</cell>
+                     <cell>01</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>vj.d.</cell>
+                     <cell>02</cell>
+                     <cell>08</cell>
+                     <cell>18</cell>
+                     <cell>22</cell>
+                     <cell>00</cell>
+                     <cell>12</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>ij.d.</cell>
+                     <cell>00</cell>
+                     <cell>18</cell>
+                     <cell>22</cell>
+                     <cell>07</cell>
+                     <cell>08</cell>
+                     <cell>04</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>j.d.</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>11</cell>
+                     <cell>03</cell>
+                     <cell>16</cell>
+                     <cell>02</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>ob.</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>17</cell>
+                     <cell>13</cell>
+                     <cell>20</cell>
+                     <cell>01</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by Robert Barker, Printer to the Kings most Excellent <hi>Maiestie.</hi> ANNO DOM. 1604.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
